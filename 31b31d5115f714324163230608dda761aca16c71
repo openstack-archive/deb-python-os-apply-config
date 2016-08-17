@@ -1,0 +1,9 @@
+Code-Review+2: Tomas Sedovic <tomas@sedovic.cz>
+Code-Review+2: Jay Dobies <jason.dobies@redhat.com>
+Workflow+1: Jay Dobies <jason.dobies@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 16 Sep 2014 20:04:30 +0000
+Reviewed-on: https://review.openstack.org/120993
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

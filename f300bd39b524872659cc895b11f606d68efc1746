@@ -1,0 +1,9 @@
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Workflow+1: Ghe Rivero <ghe.rivero@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 23 Jun 2014 16:13:45 +0000
+Reviewed-on: https://review.openstack.org/99083
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

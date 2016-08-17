@@ -1,0 +1,12 @@
+Code-Review+2: Jon-Paul Sullivan (j3p0uk) <j3p0uk@hotmail.com>
+Code-Review+1: James Polley <jp@jamezpolley.com>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Workflow+1: Chris Jones <cmsj@tenshu.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 29 Sep 2014 10:39:33 +0000
+Reviewed-on: https://review.openstack.org/120643
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

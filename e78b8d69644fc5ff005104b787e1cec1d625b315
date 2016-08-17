@@ -1,0 +1,11 @@
+Code-Review+1: Tomas Sedovic <tomas@sedovic.cz>
+Code-Review+2: greghaynes <greg@greghaynes.net>
+Code-Review+1: Motohiro/Yuanying Otsuka <yuanying@fraction.jp>
+Code-Review+2: Derek Higgins <derekh@redhat.com>
+Workflow+1: Derek Higgins <derekh@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 30 Oct 2014 17:33:35 +0000
+Reviewed-on: https://review.openstack.org/127051
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

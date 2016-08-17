@@ -1,0 +1,10 @@
+Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: Jay Dobies <jason.dobies@redhat.com>
+Workflow+1: Jay Dobies <jason.dobies@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 19 Feb 2015 22:41:56 +0000
+Reviewed-on: https://review.openstack.org/149205
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

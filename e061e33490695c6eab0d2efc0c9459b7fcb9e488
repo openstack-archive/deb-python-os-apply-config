@@ -1,0 +1,10 @@
+Code-Review+1: Steve Kowalik <steven@wedontsleep.org>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Workflow+1: Chris Jones <cmsj@tenshu.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 19 Jun 2014 19:38:24 +0000
+Reviewed-on: https://review.openstack.org/97583
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

@@ -1,0 +1,10 @@
+Code-Review+2: Jan Provaznik <jan.provaznik@gmail.com>
+Code-Review+1: James Polley <jp@jamezpolley.com>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Workflow+1: Chris Jones <cmsj@tenshu.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 29 Sep 2014 10:39:27 +0000
+Reviewed-on: https://review.openstack.org/89598
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

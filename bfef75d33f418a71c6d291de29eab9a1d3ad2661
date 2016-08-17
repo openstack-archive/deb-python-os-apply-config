@@ -1,0 +1,9 @@
+Code-Review+2: Jan Provaznik <jan.provaznik@gmail.com>
+Code-Review+2: Derek Higgins <derekh@redhat.com>
+Workflow+1: Derek Higgins <derekh@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 Oct 2014 09:34:30 +0000
+Reviewed-on: https://review.openstack.org/129303
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

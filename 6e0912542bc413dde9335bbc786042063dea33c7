@@ -1,0 +1,10 @@
+Code-Review+2: Marios Andreou <marios@redhat.com>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Workflow+1: Ben Nemec <openstack@nemebean.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 22 Apr 2015 22:46:22 +0000
+Reviewed-on: https://review.openstack.org/157775
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master

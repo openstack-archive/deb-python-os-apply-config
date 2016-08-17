@@ -1,0 +1,10 @@
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Code-Review+1: Motohiro/Yuanying Otsuka <yuanying@fraction.jp>
+Code-Review+2: Jan Provaznik <jan.provaznik@gmail.com>
+Workflow+1: Jan Provaznik <jan.provaznik@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 Oct 2014 09:01:43 +0000
+Reviewed-on: https://review.openstack.org/129636
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master
