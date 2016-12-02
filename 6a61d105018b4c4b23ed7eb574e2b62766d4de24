@@ -1,0 +1,11 @@
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Code-Review+1: yuhui <yuhui@inspur.com>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Code-Review+1: venkatamahesh <Venkata.Kotha@infinite.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 01 Dec 2016 23:17:05 +0000
+Reviewed-on: https://review.openstack.org/402578
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master
