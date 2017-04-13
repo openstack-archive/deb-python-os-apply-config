@@ -1,0 +1,9 @@
+Code-Review+2: Steve Baker <sbaker@redhat.com>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 13 Apr 2017 14:00:09 +0000
+Reviewed-on: https://review.openstack.org/455969
+Project: openstack/deb-python-os-apply-config
+Branch: refs/heads/master
